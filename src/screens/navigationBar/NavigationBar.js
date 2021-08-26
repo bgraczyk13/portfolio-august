@@ -16,7 +16,9 @@ function NavigationBar() {
   return (
     <div id="home">
       <Navbar className="navigation__container" expand="md">
-        <Navbar.Brand href="#home">Robert Graczyk</Navbar.Brand>
+        <Navbar.Brand style={{ marginLeft: "1rem" }} href="#home">
+          Robert Graczyk
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse
           style={{
