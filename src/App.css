@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap");
+
+.App {
+  font-family: "Open Sans", sans-serif;
+}
+
 :root {
   --nav-color: rgba(151, 205, 229, 0.89);
   --nav-color-hover: rgb(112, 104, 105);
