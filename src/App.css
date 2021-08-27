@@ -5,7 +5,7 @@
 }
 
 :root {
-  --nav-color: rgba(151, 205, 229, 0.89);
+  --nav-color: rgb(151, 193, 233);
   --nav-color-hover: rgb(112, 104, 105);
   --nav-border-color: rgb(112, 104, 105);
   --light-color: rgb(201, 224, 245);

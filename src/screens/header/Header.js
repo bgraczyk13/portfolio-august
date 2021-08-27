@@ -19,7 +19,7 @@ function header() {
           " ",
           " ",
         ]}
-        typeSpeed={70}
+        typeSpeed={60}
         backSpeed={40}
         loop
       />
